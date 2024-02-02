@@ -38,3 +38,5 @@ This project is a Rock Paper Scissors game built for practicing JavaScript conce
 4. The game will display the result, and the scores will be updated accordingly.
 
 ## Enjoy playing Rock Paper Scissors! 🎮🚀
+
+![ss](https://github.com/divyam751/RockPaperScissors/assets/125983433/96565a26-b933-40b1-b681-21f78c084f06)
